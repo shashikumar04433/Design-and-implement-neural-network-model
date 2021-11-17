@@ -57,7 +57,7 @@ Download [link](https://github.com/MorvanZhou/simple-neural-networks/archive/mas
 
 Fork this repo:
 ```
-$ git clone https://github.com/MorvanZhou/simple-neural-networks.git
+https://github.com/shashikumar04433/Design-and-implement-neural-network-model
 ```
 
 ## Results
